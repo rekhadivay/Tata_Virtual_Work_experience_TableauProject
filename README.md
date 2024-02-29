@@ -30,8 +30,7 @@
 #### Assess impact of marketing on repeat purchases.
 #### Develop strategies to reduce time between purchases.
 ### High Repurchase Rate Products:
-
-### Identify products with high repurchase rates.
+#### Identify products with high repurchase rates.
 #### Analyze average repurchase period for these products.
 
 ### Regional Product Revenue: 
