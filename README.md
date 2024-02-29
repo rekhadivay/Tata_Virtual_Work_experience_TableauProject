@@ -1,8 +1,9 @@
 ## Tata_Virtual_Work_experience__Retail _Analytics-TableauProject
 
 ### Overview: 
-#### This analytics project is commissioned by an online retail store, seeking insights to inform strategic decisions. The dataset provided will be analyzed, focusing on both operational and marketing perspectives.
-### Objectives: To prepare for the meeting, we need to draft some questions that we think will be important and relevant to the CEO and CMO. Those questions are:
+#### This analytics virtual experience project is commissioned by an online retail store, seeking insights to inform strategic decisions. The dataset provided will be analyzed, focusing on both operational and marketing perspectives.
+### Objectives: 
+#### To prepare for the meeting, we need to draft some questions that we think will be important and relevant to the CEO and CMO. Those questions are:
 
 ### CEO Concerns: 
 #### 1. Monthly Sales Analysis:
